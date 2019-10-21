@@ -16,6 +16,7 @@ symbols = {
     "semi": ";",
     "semicolon": ";",
     "quote": "'",
+    "large quote": "\"",
     "L square": "[",
     "left square": "[",
     "square": "[",
